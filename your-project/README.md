@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Brewerys and beers analysis
+By Jordana Jordi, Martínez Rubén & Navarro Alex.
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics, Ironhack Barcelona -20/10-21/12 2019*
 
 ## Content
 - [Project Description](#project-description)
@@ -37,6 +37,6 @@ What does your repository look like? Explain your folder and file structure.
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/rubenmartinezlorente/Project-Week-3-Data-Thieves)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/RV54bqoU/project-3-brewery-data-analysis)  

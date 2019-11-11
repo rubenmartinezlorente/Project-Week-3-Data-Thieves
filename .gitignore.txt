@@ -10,6 +10,10 @@ Old_Data
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
+##kick off
+
+Kick-Off.md
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 

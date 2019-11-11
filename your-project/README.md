@@ -15,7 +15,11 @@ By Jordana Jordi, Martínez Rubén & Navarro Alex.
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+In this project you will find a sample of our training to show our experience in ETL and data analysis for the Data Analytics bootcamp carried out in the Q4 of 2019.
+
+The goal of this project is the data analysis from beer&breweries topics. We want answer some questions we made previous to have the datasets or APIs.
+
+We find in this projects concepts of Python, Pandas, Tableau, API's and SQL.
 
 ## Questions & Hypotheses
 The information we want to extract from the datasets and the API's related with beers and breweries are the followings:

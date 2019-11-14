@@ -564,7 +564,6 @@ brewery_id,name,cat_id,style_id,abv
 566.0,Bison Brown,3.0,38.0,5.0
 1280.0,Yorkshire Stout,3.0,42.0,4.5
 1280.0,Hathor Red Lager,8.0,95.0,5.4
-1373.0,Norfolk Nog Old Dark Ale,1.0,13.0,99.99
 652.0,India Pale Ale,3.0,26.0,5.2
 888.0,North of the Border Porter,2.0,25.0,6.0
 888.0,Dells Chief Amber Ale,3.0,33.0,4.5
@@ -1046,7 +1045,6 @@ brewery_id,name,cat_id,style_id,abv
 17.0,Winter Ale,11.0,141.0,6.4
 17.0,Alaskan Barley Wine Ale,3.0,35.0,10.4
 17.0,Breakup Bock,7.0,90.0,7.0
-1144.0,Old 55 Pale Ale,3.0,26.0,0.0
 858.0,Kodiak Brown Nut Brown Ale,3.0,38.0,5.0
 858.0,Arctic Rhino Coffee Porter,2.0,25.0,5.0
 858.0,Sockeye Red IPA,3.0,31.0,5.7
@@ -1103,7 +1101,6 @@ brewery_id,name,cat_id,style_id,abv
 100.0,Batch 8000,5.0,67.0,9.0
 100.0,Batch 7000,3.0,43.0,12.0
 784.0,Rocket's Red Ale,3.0,33.0,6.0
-784.0,Liberty White Ale,5.0,67.0,0.0
 339.0,Amber Waves,3.0,33.0,5.3
 339.0,Irish Red Ale,2.0,22.0,5.2
 540.0,Kerberos,5.0,61.0,8.5
@@ -1122,7 +1119,6 @@ brewery_id,name,cat_id,style_id,abv
 1072.0,Dry Hopped St. Rogue Red Ale,3.0,33.0,5.1
 1072.0,Dead Guy Ale,7.0,91.0,6.5
 1072.0,American Amber Ale,3.0,33.0,5.6
-1072.0,Artisan Lager,8.0,95.0,0.0
 1072.0,Brutal Bitter,1.0,5.0,6.5
 1072.0,Chocolate Stout,3.0,42.0,6.0
 1072.0,Hazelnut Brown Nectar,3.0,38.0,6.0
@@ -1132,38 +1128,24 @@ brewery_id,name,cat_id,style_id,abv
 1072.0,Half-E-Weizen,5.0,67.0,4.8
 1072.0,Mocha Porter / New Porter,2.0,25.0,5.3
 1072.0,Monk Madness Ale,3.0,38.0,7.4
-1072.0,Morimoto Black Obi Soba Ale,11.0,121.0,0.0
 1072.0,Old Crustacean Barleywine 2004,3.0,35.0,11.5
-1072.0,Morimoto Soba Ale,11.0,121.0,0.0
-1072.0,Oregon Golden Ale,3.0,37.0,0.0
 1072.0,Santas Private Reserve,3.0,33.0,6.0
 1072.0,Shakespeare Stout,3.0,42.0,6.0
-1072.0,Red Fox,3.0,33.0,0.0
-1072.0,Roughstock Ale,3.0,26.0,0.0
 1072.0,Ten Thousand Brew Ale,3.0,32.0,10.0
 1072.0,XS Imperial Stout,3.0,42.0,10.0
 1072.0,Ãœber Pilsner,7.0,77.0,5.2
-1072.0,Issaquah Bullfrog Ale,11.0,116.0,0.0
-1072.0,Chamomellow,3.0,26.0,0.0
 1072.0,Frosty Frog,11.0,141.0,9.0
 1072.0,Golden Frog,5.0,72.0,6.0
-1072.0,Honey Orange Wheat,11.0,116.0,0.0
 1072.0,Hoppy Frog,3.0,31.0,6.5
 1072.0,Imperial Red,3.0,33.0,9.0
 1072.0,Kells Irish Style Lager,8.0,95.0,5.0
 1072.0,Menage Frog,5.0,61.0,9.0
 1072.0,Tracktown IPA,3.0,31.0,7.0
-1072.0,Trafalgar IPA,3.0,31.0,0.0
-1072.0,Youngers Special Bitter,1.0,5.0,0.0
 247.0,Dark Mild,1.0,10.0,3.5
-247.0,Irish Stout,3.0,42.0,0.0
 1313.0,Upland Wheat Ale,11.0,116.0,4.5
 343.0,O'Hara's Celtic Stout,3.0,42.0,4.3
 289.0,Balashi,7.0,77.0,5.0
-339.0,St. Adrian's Alt,4.0,57.0,0.0
-968.0,Pale Ale,3.0,26.0,0.0
 1357.0,Avenue Ale,3.0,26.0,4.1
-544.0,Copper Head Ale,3.0,33.0,0.0
 423.0,Geary's Pale Ale,1.0,4.0,4.5
 650.0,Aecht Schlenkerla Rauchbier Urbock,7.0,90.0,6.0
 616.0,Grolsch Amber Ale,4.0,57.0,5.3
@@ -1184,7 +1166,6 @@ brewery_id,name,cat_id,style_id,abv
 1031.0,Apricot Weizen Ale,4.0,50.0,5.1
 198.0,St-Ambroise Oatmeal Stout,1.0,21.0,5.0
 198.0,St-Ambroise Apricot Wheat Ale,11.0,116.0,5.0
-360.0,Tecate,8.0,95.0,0.0
 618.0,Corona Extra,8.0,95.0,4.6
 226.0,WaldschlÃ¶sschen Dunkel,7.0,86.0,5.0
 161.0,Boulevard Unfiltered Wheat,11.0,116.0,4.5
@@ -1197,9 +1178,7 @@ brewery_id,name,cat_id,style_id,abv
 1142.0,Anniversary Ale 2007,3.0,31.0,5.9
 1142.0,Celebration Ale,3.0,31.0,6.8
 1142.0,Bigfoot,3.0,35.0,9.6
-1117.0,SchÃ¶fferhofer Hefeweizen alkoholfrei,4.0,50.0,0.0
 1117.0,SchÃ¶fferhofer Hefeweizen Hell,4.0,50.0,5.0
-1009.0,Sharkbite Red,3.0,33.0,0.0
 23.0,Allagash White,5.0,67.0,5.0
 1349.0,Pils Legende,7.0,77.0,4.9
 459.0,Burton Baton,3.0,26.0,10.0
@@ -1211,31 +1190,22 @@ brewery_id,name,cat_id,style_id,abv
 328.0,Dark Lager,8.0,95.0,6.1
 328.0,Pale Ale,3.0,26.0,5.4
 360.0,Cerveza Sol,8.0,95.0,4.5
-10.0,Purple Haze,11.0,116.0,0.0
 1220.0,Great Northern Porter,2.0,25.0,5.6
-1048.0,Red Oak Amber Lager,8.0,95.0,0.0
-1048.0,Battlefield Bock,7.0,90.0,0.0
-1048.0,Hummin Bird,8.0,96.0,0.0
 369.0,Eisenbahn Weizenbock,4.0,55.0,8.0
 465.0,Dreher Classic,7.0,77.0,5.0
 646.0,Soproni,7.0,77.0,5.0
 154.0,Borsodi,7.0,77.0,5.0
 205.0,Celebrator,7.0,92.0,6.7
-360.0,Dos Equis Amber Lager,8.0,95.0,0.0
-360.0,Dos Equis Special Lager,8.0,95.0,0.0
 698.0,Iron City,8.0,95.0,4.5
 1176.0,Optimator,7.0,92.0,7.2
 1005.0,Pilsner Urquell,7.0,77.0,4.4
 1361.0,Widmer Hefeweizen,4.0,50.0,4.9
 1361.0,Broken Halo IPA,3.0,31.0,6.0
 1361.0,Drop Top Amber Ale,3.0,33.0,5.0
-121.0,Grasshopper,11.0,116.0,0.0
 1361.0,Widmer W'08,11.0,116.0,4.9
 83.0,Duveneck's Dortmunder,8.0,95.0,4.5
 83.0,Cumberland Pale Ale,3.0,26.0,4.6
 83.0,RedLegg Ale,3.0,33.0,4.9
-1332.0,Wachusetts IPA,3.0,31.0,0.0
-1252.0,Narragansett Lager,8.0,95.0,0.0
 473.0,Duvel,5.0,72.0,8.5
 1204.0,Arrogant Bastard Ale,3.0,26.0,7.2
 281.0,Maredsous 10 Tripple,5.0,72.0,10.0
@@ -1254,13 +1224,7 @@ brewery_id,name,cat_id,style_id,abv
 588.0,Gordon Biersch Czech Lager,7.0,77.0,5.6
 588.0,Gordon Biersch Hefeweizen,4.0,50.0,5.5
 988.0,Skopsko,8.0,95.0,5.0
-959.0,Copper Ale,3.0,38.0,0.0
-959.0,Oktoberfest,7.0,84.0,0.0
 41.0,Barney Flats Oatmeal Stout,3.0,42.0,5.7
-959.0,Pale Ale,3.0,33.0,0.0
-959.0,Stovepipe Porter,2.0,25.0,0.0
-959.0,White Sail,5.0,67.0,0.0
-959.0,Vermont Lager,8.0,95.0,0.0
 801.0,Long Trail Ale,4.0,57.0,4.6
 801.0,Traditional IPA,3.0,31.0,5.9
 801.0,Double Bag Ale,5.0,60.0,7.2
@@ -1286,7 +1250,6 @@ brewery_id,name,cat_id,style_id,abv
 44.0,Bud Dry,8.0,96.0,5.0
 1337.0,Warsteiner Premium Verum,7.0,77.0,4.8
 44.0,Bud Light Lime,8.0,96.0,4.2
-44.0,Bare Knuckle Stout,3.0,42.0,0.0
 366.0,Caguama,7.0,77.0,3.9
 44.0,Bud Ice,8.0,95.0,5.5
 44.0,Bud Ice Light,8.0,95.0,4.1
@@ -1295,11 +1258,8 @@ brewery_id,name,cat_id,style_id,abv
 586.0,Goose Island IPA,3.0,31.0,5.9
 95.0,BeckÂ´s,7.0,77.0,4.5
 480.0,Schlappeseppl Export,8.0,95.0,5.5
-60.0,WeiÃŸbier,11.0,116.0,0.0
 520.0,Rockslide IPA,3.0,31.0,6.7
 1224.0,420 Extra Pale Ale,3.0,26.0,5.4
-769.0,Riverwest Stein Beer,8.0,95.0,0.0
-1026.0,Kennebunkport IPA,3.0,31.0,0.0
 10.0,Abita Jockamo IPA,3.0,31.0,6.5
 85.0,Bass Pale Ale,1.0,1.0,5.0
 249.0,Three Philosophers,5.0,62.0,9.8
@@ -1309,31 +1269,11 @@ brewery_id,name,cat_id,style_id,abv
 302.0,Hoegaarden,11.0,116.0,4.9
 1204.0,Stone 11th Anniversery Ale,3.0,29.0,8.7
 1260.0,Gumballhead,11.0,116.0,4.8
-585.0,Honker's Ale,1.0,4.0,0.0
-1374.0,Julius Echter Hefe-WeiÃŸbier Hell,4.0,50.0,0.0
-963.0,Primo,8.0,95.0,0.0
 39.0,Anchor Summer Beer,11.0,116.0,4.6
 1385.0,Double Chocolate Stout,1.0,20.0,5.2
 813.0,Blue Bell Bitter,1.0,4.0,5.4
 509.0,Staggering Elk,8.0,95.0,4.5
-1195.0,Lions Gate Lager,8.0,95.0,0.0
-1195.0,Cascadia Cream Ale,8.0,95.0,0.0
-1195.0,Signature Pale Ale,3.0,33.0,0.0
-1195.0,Empress India Pale Ale,3.0,32.0,0.0
-1195.0,Heroica Oatmeal Stout,1.0,21.0,0.0
-1195.0,Pilsner,7.0,77.0,0.0
-1195.0,Skinny Tire Hefeweizen,4.0,50.0,0.0
-1195.0,Coal Porter,2.0,25.0,0.0
-1195.0,The Great Pumpkin Ale,11.0,123.0,0.0
-1195.0,Sour Cherry Ale,11.0,121.0,0.0
-1195.0,Ipanema Summer White,5.0,67.0,0.0
-1195.0,Frambozen,11.0,121.0,0.0
 1195.0,Blitzen Christmas Ale,11.0,121.0,8.5
-1210.0,HURRICANE I.P.A.,3.0,31.0,0.0
-1210.0,Black Plague Stout,3.0,42.0,0.0
-1210.0,Highland Scottish Ale,1.0,15.0,0.0
-1210.0,Precipitation Pilsner,7.0,77.0,0.0
-1210.0,Fruit Lambics,11.0,121.0,0.0
 1211.0,Fat Dog Stout,1.0,21.0,9.0
 1211.0,Stoudt's Double India Pale Ale,3.0,32.0,10.0
 1307.0,Blanche de Chambly,5.0,67.0,5.0
@@ -1344,25 +1284,20 @@ brewery_id,name,cat_id,style_id,abv
 1391.0,Sly Rye Porter,2.0,25.0,5.7
 1391.0,Pale Ale,3.0,26.0,5.8
 1391.0,Onward Stout,3.0,42.0,3.8
-1391.0,ESB,1.0,5.0,0.0
 1391.0,Hefeweizen,4.0,50.0,5.0
 658.0,Gaelic Ale,3.0,33.0,5.8
 658.0,Oatmeal Porter,2.0,25.0,5.8
 658.0,St.Terese's Pale Ale,3.0,26.0,5.2
 658.0,Kashmir IPA,3.0,31.0,5.6
 658.0,Black Mocha Stout,3.0,42.0,5.3
-658.0,Cold Mountain Winter Ale,11.0,141.0,0.0
 972.0,Salvator,7.0,92.0,7.9
 972.0,Paulaner Oktoberfest,7.0,84.0,6.0
 972.0,Hefeweizen,4.0,50.0,5.5
 765.0,Cappuccino Stout,3.0,42.0,8.3
 49.0,Guinness Draught,3.0,42.0,4.3
 47.0,Cocoa Loco,3.0,43.0,7.0
-10.0,Fall Fest,7.0,84.0,0.0
-10.0,Strawberry Harvest Lager,11.0,121.0,0.0
 765.0,Lucky 13 Anniversary Release,2.0,22.0,8.3
 530.0,Blackberry Ale,3.0,26.0,5.2
-530.0,Oil Change Oatmeal Stout,1.0,21.0,0.0
 56.0,Hell,8.0,95.0,5.0
 41.0,Boont Amber Ale,3.0,33.0,5.8
 41.0,Hop Ottin IPA,3.0,31.0,7.0
@@ -1383,18 +1318,13 @@ brewery_id,name,cat_id,style_id,abv
 1086.0,Pliny the Elder,3.0,32.0,8.0
 1086.0,Pliny the Younger,3.0,32.0,11.0
 1086.0,Aud Blonde,3.0,37.0,4.5
-1354.0,Oliver ESB,1.0,5.0,0.0
-1354.0,Oliver Irish Red,2.0,22.0,0.0
-1354.0,Oliver Pagan Porter,2.0,25.0,0.0
 1262.0,Thunderhead IPA,3.0,31.0,5.8
 320.0,Strongbow Cider,11.0,121.0,5.3
 41.0,Summer Solstice Cerveza Crema,11.0,113.0,5.6
-765.0,IPA,3.0,31.0,0.0
 520.0,Imperial Eclipse Stout,3.0,43.0,9.5
 1224.0,Blue,11.0,121.0,4.9
 1224.0,Georgia Brown,3.0,38.0,5.1
 1224.0,Hummer,5.0,67.0,5.1
-44.0,Ziegenbock Amber,7.0,90.0,0.0
 62.0,"Maharaja, The",3.0,32.0,10.5
 62.0,"Reverend, The",5.0,62.0,10.0
 1019.0,Erdinger Weizen,11.0,116.0,5.3
@@ -1402,18 +1332,6 @@ brewery_id,name,cat_id,style_id,abv
 955.0,Orlio Seasonal India Pale Ale,3.0,31.0,5.4
 955.0,Orlio Seasonal Black Lager,7.0,86.0,4.5
 611.0,Woodchuck Dark and Dry Draft Cider,11.0,121.0,5.0
-611.0,Cider Jack,11.0,121.0,0.0
-920.0,Creamation Ale,11.0,113.0,0.0
-920.0,Squirrel's Nut Brown,3.0,38.0,0.0
-920.0,McCafferty's Ale,2.0,22.0,0.0
-920.0,Station 33 Firehouse Red,2.0,22.0,0.0
-920.0,Amber Waves of Grain,3.0,33.0,0.0
-920.0,Paddlers Pale Ale,3.0,26.0,0.0
-920.0,Paleo IPA,3.0,31.0,0.0
-920.0,Double Vision IPA,3.0,31.0,0.0
-920.0,Friar's Porter,2.0,25.0,0.0
-920.0,Stone House Stout,1.0,21.0,0.0
-920.0,Rock-n-Wheat,4.0,50.0,0.0
 426.0,Double Crooked Tree I.P.A.,3.0,32.0,13.6
 47.0,Hopmouth Double IPA,3.0,32.0,8.0
 863.0,Red Dog,8.0,96.0,5.0
@@ -1448,12 +1366,7 @@ brewery_id,name,cat_id,style_id,abv
 998.0,Staropramen,7.0,77.0,5.0
 113.0,Bad Penny,3.0,38.0,5.5
 76.0,Antler Brown Ale,3.0,38.0,4.8
-76.0,Navigator Golden Ale,3.0,37.0,0.0
 76.0,Cliffhanger Light Ale,8.0,96.0,3.22
-76.0,Angler Black Lager,7.0,86.0,0.0
-76.0,Rescue IPA,3.0,31.0,0.0
-76.0,Iron Arm Belgian Style Wheat,5.0,67.0,0.0
-76.0,Mountaineer Maibock,7.0,91.0,0.0
 76.0,Old '99 Barley Wine,3.0,35.0,11.0
 209.0,Maisel's Weisse Kristall,5.0,67.0,5.1
 1023.0,Schneider Weisse,11.0,116.0,5.4
@@ -1505,25 +1418,13 @@ brewery_id,name,cat_id,style_id,abv
 538.0,Barnstormer Brown Ale,3.0,38.0,5.0
 538.0,Peacemaker Porter,2.0,25.0,5.5
 538.0,Sick Duck Imperial Stout,3.0,43.0,10.0
-314.0,Bube's Red Ale,3.0,33.0,0.0
-314.0,Bube's Stout,3.0,42.0,0.0
-314.0,Bube's Kiwi-Strawberry Wheat,11.0,121.0,0.0
-314.0,Bube's Brown Ale,3.0,38.0,0.0
-314.0,Bube's Hefeweizen,4.0,50.0,0.0
-314.0,Bube's India Pale Ale (IPA),3.0,31.0,0.0
 1286.0,Scratch #7 2008,4.0,55.0,7.9
 1286.0,Scratch #11 2008,1.0,3.0,4.9
 1286.0,Scratch #10 2008,5.0,61.0,10.2
 1286.0,Scratch #8 2008,5.0,61.0,10.1
 1286.0,Scratch #6 2007,8.0,95.0,5.1
-831.0,McNellie's Pub Ale,1.0,4.0,0.0
-831.0,Sundown Wheat,11.0,116.0,0.0
-831.0,Atlas IPA,3.0,31.0,0.0
 1204.0,Oaked Arrogant Bastard Ale,3.0,30.0,7.2
 460.0,Hansa Imported Dortmunder,8.0,95.0,4.8
-90.0,Hoppy Hefe,4.0,50.0,0.0
-90.0,Bourbon Barrel Smoked Porter,2.0,25.0,0.0
-90.0,Cask Hefe,4.0,50.0,0.0
 459.0,Raison D'Etre,3.0,29.0,8.0
 459.0,Fort,11.0,121.0,18.0
 459.0,Lawnmower,3.0,26.0,4.0
@@ -1595,22 +1496,17 @@ brewery_id,name,cat_id,style_id,abv
 857.0,The Duke of Winship,1.0,15.0,6.5
 857.0,Winter Wheat,11.0,116.0,6.3
 857.0,Wizard's Winter Ale,11.0,141.0,6.8
-415.0,East Coast lager,8.0,95.0,0.0
-415.0,Circket Hill American Ale,3.0,33.0,0.0
-415.0,Cricket Hill Hopnotic,3.0,31.0,0.0
 144.0,Spring Fling,3.0,26.0,6.0
 956.0,Gordon,3.0,32.0,8.7
 956.0,Dale's Pale Ale,3.0,26.0,6.5
 956.0,Old Chub,1.0,15.0,8.0
 956.0,Ten Fidy,3.0,43.0,10.0
 956.0,One Nut Brown Ale,3.0,38.0,5.0
-236.0,Remarkable Vanilla Porter,2.0,25.0,0.0
 848.0,White Ale,5.0,67.0,4.8
 100.0,Big Porch Ale,3.0,33.0,5.8
 967.0,Palm Speciale,3.0,33.0,5.2
 960.0,Pilsener Lager,7.0,77.0,5.6
 960.0,Arthur's Mild Ale,1.0,10.0,3.2
-960.0,KClinger's Brown Ale,3.0,38.0,0.0
 960.0,Old Fugget,3.0,35.0,11.8
 960.0,Otto's Hefeweizen,4.0,50.0,7.1
 960.0,Otto's Weizenbock,4.0,55.0,7.2
@@ -1654,9 +1550,7 @@ brewery_id,name,cat_id,style_id,abv
 61.0,King Lager,8.0,96.0,5.2
 908.0,Existential,3.0,35.0,11.1
 908.0,Pilgrim's Dole,3.0,35.0,10.0
-908.0,Cabin Fever,3.0,38.0,0.0
 908.0,Ichabod,3.0,35.0,5.2
-908.0,Zoomer,11.0,116.0,0.0
 908.0,Night Tripper,3.0,43.0,10.8
 1219.0,Woody's Light,3.0,26.0,3.6
 1219.0,Grateful Red,3.0,33.0,5.0
@@ -1665,11 +1559,8 @@ brewery_id,name,cat_id,style_id,abv
 1219.0,Pirate's Porter,3.0,29.0,5.3
 1219.0,Marzen,8.0,95.0,5.7
 1219.0,.38 Special Bitter,1.0,3.0,3.8
-978.0,Pete's Wicked Strawberry Blonde,11.0,121.0,0.0
-978.0,Pete's Rally Cap Ale,11.0,116.0,0.0
 978.0,Pete's Wicked Wanderlust Cream Ale,11.0,113.0,5.6
 609.0,Green Flash Imperial India Pale Ale,3.0,32.0,9.0
-751.0,Wailua,11.0,116.0,0.0
 114.0,Buck Naked,8.0,96.0,3.2
 114.0,Big Buck Beer,3.0,26.0,5.2
 114.0,Raspberry Wheat,11.0,116.0,4.8
@@ -1701,10 +1592,6 @@ brewery_id,name,cat_id,style_id,abv
 723.0,Fuego del Otono,3.0,33.0,6.1
 1243.0,Terrapin Monk's Revenge,5.0,72.0,9.8
 878.0,Carling,8.0,95.0,4.1
-878.0,Rickard's White Ale,5.0,67.0,0.0
-878.0,Rickard's Red Ale,2.0,22.0,0.0
-878.0,Rickard's Pale Ale,3.0,31.0,0.0
-253.0,Waterloo Dark,8.0,95.0,0.0
 56.0,Dirty Blond,11.0,116.0,4.5
 56.0,Vanilla Java Porter,2.0,25.0,6.0
 56.0,Voodoo Vator,7.0,92.0,9.5
@@ -1721,14 +1608,6 @@ brewery_id,name,cat_id,style_id,abv
 463.0,Crooked Door,3.0,33.0,5.0
 463.0,Breath of the Dragon English Bitter,1.0,1.0,4.5
 1149.0,Righteous Ale,11.0,119.0,7.2
-784.0,Liberty Nut Brown Ale,3.0,38.0,0.0
-784.0,Miss Liberty Lager,8.0,95.0,0.0
-784.0,Liberty Unfiltered Wheat Ale,11.0,116.0,0.0
-784.0,Liberty Pale Ale,3.0,26.0,0.0
-784.0,Liberty Raspberry Wheat Ale,11.0,121.0,0.0
-784.0,Patriot Porter,2.0,25.0,0.0
-784.0,Amber Waves,3.0,33.0,0.0
-826.0,Lone Palm Ale,3.0,38.0,0.0
 44.0,Beach Bum Blonde Ale,3.0,37.0,5.4
 751.0,Longboard Lager,8.0,95.0,5.5
 397.0,Coopers Premium Lager,8.0,95.0,5.0
@@ -1750,11 +1629,6 @@ brewery_id,name,cat_id,style_id,abv
 1031.0,Pyramid Thunderhead IPA,3.0,31.0,6.7
 144.0,Hoptical Illusion,3.0,31.0,6.8
 1000.0,Mamma Mia! Pizza Beer,11.0,126.0,4.6
-477.0,St. Michaels Blonde Ale,3.0,37.0,0.0
-477.0,Ameri-Hefe,4.0,50.0,0.0
-869.0,Thunderstorm,11.0,116.0,0.0
-869.0,Smoked Helles Lager,8.0,95.0,0.0
-44.0,Redbridge,8.0,95.0,0.0
 858.0,The Viking Belgian-style Dark Strong Ale,5.0,66.0,12.0
 858.0,Pluto - Belgian-style Golden Strong Ale,5.0,72.0,8.7
 858.0,Oosik Amber Ale,3.0,33.0,5.0
@@ -1767,7 +1641,6 @@ brewery_id,name,cat_id,style_id,abv
 604.0,Hades,5.0,65.0,7.3
 609.0,Le Freak Belgian Style IPA,5.0,72.0,9.0
 110.0,Tilburg's Dutch Brown Ale,5.0,72.0,5.0
-960.0,Mount Hill Pale Ale,1.0,1.0,0.0
 259.0,Saison De Brooklyn,5.0,74.0,6.8
 1204.0,Stone Cali-Belgique,5.0,72.0,6.9
 1383.0,Yards Brawler,1.0,1.0,4.3
@@ -1782,52 +1655,37 @@ brewery_id,name,cat_id,style_id,abv
 1142.0,Glissade Golden Bock,7.0,91.0,6.4
 634.0,Harpoon Munich Dark,3.0,38.0,5.5
 976.0,Shouboushi Ginger Pilsner,7.0,77.0,5.1
-976.0,Fireman's Pail Ale,3.0,26.0,0.0
 976.0,Halligan IPA,3.0,31.0,5.1
-976.0,The Big O Oktobefest,7.0,84.0,0.0
 976.0,Bagpiper's Scottish Ale,1.0,15.0,9.0
 976.0,Engine 5,3.0,33.0,5.0
 976.0,Pozharnik,3.0,43.0,8.1
-976.0,Saint Florian's Doppelbock,7.0,92.0,0.0
 976.0,Feuerwehrmann Schwarzbier,7.0,86.0,5.0
 1009.0,High Tide IPA,3.0,31.0,6.5
-1072.0,Yellow Snow IPA,3.0,31.0,0.0
 1072.0,Double Dead Guy Ale,7.0,92.0,9.0
 10.0,Abita Purple Haze,11.0,116.0,4.75
 459.0,Punkin Ale,11.0,123.0,7.0
 1142.0,Torpedo Extra IPA,3.0,31.0,7.2
 520.0,Foggy Goggle Belgian White,5.0,67.0,5.3
 1142.0,Sierra Nevada Imperial Stout,3.0,43.0,10.5
-100.0,Bell's Christmas Ale,1.0,15.0,0.0
 44.0,Jack's Pumpkin Spice Ale,11.0,123.0,5.5
 44.0,Sun Dog Amber Wheat,11.0,116.0,5.3
 1173.0,Oat Imperial Oatmeal Stout,3.0,43.0,12.5
-1301.0,Three Beaches Honey Blonde Ale,3.0,37.0,0.0
 1301.0,Headless Man Amber Alt,4.0,57.0,5.0
 1301.0,Rocky's Revenge,3.0,38.0,6.0
 1301.0,Fargo Brothers Hefeweizen,4.0,50.0,5.25
 1301.0,Gemuetlichkeit Oktoberfest,7.0,84.0,5.5
-1301.0,HopWhore Imperial India Pale Ale,3.0,32.0,0.0
 858.0,Saturn - Belgian-style Fresh Hop IPA,5.0,72.0,8.0
 609.0,Hop Hed Red Ale,3.0,33.0,6.0
 686.0,Nectar IPA,3.0,31.0,6.8
 476.0,Ugly American,5.0,61.0,7.8
 476.0,East End Witte,5.0,67.0,4.5
 476.0,Big Hop IPA,3.0,31.0,5.8
-396.0,Cooper's Cave Tavern Ale,1.0,3.0,0.0
-396.0,Bumppo's Brown Ale,3.0,38.0,0.0
-396.0,Cooper's Cave Pale Ale,1.0,1.0,0.0
-396.0,Pathfinder's Porter,2.0,25.0,0.0
-396.0,Radeau Red Ale,2.0,22.0,0.0
-396.0,Sagamore Stout,3.0,42.0,0.0
 314.0,Wet Hop Requiem IPA,3.0,31.0,5.2
-314.0,Bube's Munich Lager,8.0,95.0,0.0
 1038.0,Blonde Lager,8.0,95.0,4.5
 1038.0,Rahr's Red,3.0,33.0,4.5
 1038.0,Buffalo Butt,3.0,33.0,4.5
 1038.0,Ugly Pug,7.0,86.0,4.5
 1038.0,Stormcould IPA,3.0,31.0,6.0
-1038.0,Blind Salamander Pale Ale,3.0,26.0,0.0
 1038.0,Rahr's Bucking Bock,7.0,91.0,8.0
 1038.0,Rahr's Summertime Wheat,4.0,50.0,5.5
 1038.0,Rahr's Oktoberfest,7.0,84.0,5.5
@@ -1842,11 +1700,7 @@ brewery_id,name,cat_id,style_id,abv
 259.0,Oktoberfest,8.0,95.0,5.5
 424.0,Daas Organic Blond,5.0,72.0,6.5
 424.0,Daas Organic Witte,5.0,67.0,5.0
-1093.0,Saison Athene,5.0,74.0,0.0
-1093.0,Lectio Divina,5.0,72.0,0.0
-10.0,Turbodog,3.0,29.0,0.0
 259.0,Local 1,5.0,65.0,9.0
-751.0,Pipeline Porter,2.0,25.0,0.0
 923.0,NÃ¸gne Ã˜ Wit,5.0,67.0,4.5
 923.0,NÃ¸gne Ã˜ Bitter,1.0,3.0,4.5
 923.0,Havre Stout,1.0,21.0,4.5
@@ -1865,44 +1719,22 @@ brewery_id,name,cat_id,style_id,abv
 1093.0,Pays du Soleil,5.0,72.0,8.0
 1352.0,Alpha,5.0,64.0,6.2
 1352.0,Bravo,11.0,116.0,6.5
-1128.0,Captain Selin's Cream,11.0,113.0,0.0
-1128.0,Selin's Grove IPA,3.0,31.0,0.0
-1128.0,Shade Mountain Oatmeal Stout,1.0,21.0,0.0
-97.0,Lobster Ale,3.0,33.0,0.0
-97.0,McGovern's Oatmeal Stout,1.0,21.0,0.0
 1125.0,Sea Dog Apricot Wheat,11.0,121.0,3.5
 1125.0,Sea Dog Blue Paw Wheat,11.0,121.0,3.5
 1031.0,Pyramid Broken Rake,3.0,33.0,6.1
-490.0,Elk Creek Copper Ale,3.0,33.0,0.0
-490.0,Great Blue Heron Pale Ale,3.0,26.0,0.0
-490.0,Winkleblink Ale,11.0,116.0,0.0
-490.0,Brookie Brown Ale,3.0,38.0,0.0
-490.0,Poe Paddy Porter,2.0,25.0,0.0
-490.0,Double Rainbow IPA,1.0,2.0,0.0
 833.0,Marzoni's Amber Lager,3.0,33.0,6.1
 833.0,Locke Mountain Light,8.0,96.0,3.7
 833.0,Highway 22 Wheat,11.0,116.0,4.7
 833.0,Avalanche IPA,3.0,31.0,6.9
 833.0,Patchway Pale Ale,3.0,26.0,5.5
 833.0,Stone Mason Stout,3.0,42.0,6.1
-916.0,60 Shilling,1.0,15.0,0.0
-1049.0,Golden Light,8.0,96.0,0.0
-1049.0,Canvas Back American Pale Ale,3.0,26.0,0.0
-1049.0,Iron Horse Stout,3.0,42.0,0.0
-1049.0,Greensburg Lager,8.0,95.0,0.0
-1049.0,Strawberry Honey Amber Ale,3.0,33.0,0.0
-1049.0,Red Star Pilsner,7.0,77.0,0.0
 1061.0,Shepard's Crook Scotish Ale,1.0,15.0,5.1
 1061.0,LeRoy's Brown Ale,3.0,38.0,5.3
 1061.0,Melting Pot Pale Ale,3.0,26.0,5.5
 1061.0,Old Wylie's IPA,3.0,31.0,6.2
 1348.0,Wells Bombardier English Bitter,1.0,4.0,5.2
-794.0,Wild Mild Ale,1.0,10.0,0.0
-794.0,#42 Cream Ale,11.0,113.0,0.0
-634.0,Harpoon Celtic Ale,2.0,22.0,0.0
 82.0,Baron Pilsner,7.0,77.0,4.7
 82.0,Baron Schwarzbier,7.0,86.0,4.9
-82.0,Baron Oktoberfest,7.0,84.0,0.0
 82.0,Baron Helles Bock,7.0,91.0,6.4
 1191.0,HofbrÃ¤u Oktoberfestbier,7.0,84.0,6.3
 919.0,Red Seal Ale,3.0,33.0,5.5
@@ -1914,14 +1746,10 @@ brewery_id,name,cat_id,style_id,abv
 1221.0,Darkness,3.0,43.0,10.3
 1136.0,Pugsley's Signature Series Imperial Porter,2.0,25.0,7.1
 1136.0,Pugsley's Signature Series Barley Wine Style Ale,3.0,35.0,8.5
-1054.0,Workingman Mild,1.0,10.0,0.0
 1379.0,B3K Schwarzbier,7.0,86.0,5.3
 1379.0,Wixa Weiss,11.0,116.0,4.8
-1379.0,Patty's Chile Beer,11.0,121.0,0.0
 1379.0,Two Guns Pilsner,7.0,77.0,5.0
-1379.0,Light Rail Ale,3.0,37.0,0.0
 1379.0,Sagebrush Stout,3.0,42.0,6.1
-1379.0,Obamanator Maibock,7.0,91.0,0.0
 531.0,Angry Planet Pale Ale,3.0,26.0,6.1
 531.0,Flat Earth Belgian-style Pale Ale,5.0,64.0,5.2
 44.0,Michelob Dunkel Weisse,3.0,29.0,5.5
@@ -1939,7 +1767,6 @@ brewery_id,name,cat_id,style_id,abv
 1182.0,Seven Gates Pale Ale,3.0,26.0,5.6
 1182.0,Two Front Teeth Holiday Ale,5.0,74.0,9.4
 999.0,Baltika 6 Porter,2.0,25.0,7.0
-1289.0,Red Dragon Xtreme,8.0,95.0,0.0
 1087.0,Estrella Damm,8.0,95.0,4.6
 1181.0,Sprecher Pub Ale,3.0,38.0,4.5
 1181.0,Sprecher Irish Stout,3.0,42.0,5.73
@@ -1951,8 +1778,6 @@ brewery_id,name,cat_id,style_id,abv
 1160.0,Smuttynose Finestkind IPA,3.0,31.0,5.6
 1160.0,Robust Porter,2.0,25.0,5.4
 858.0,Uranus - 100% Brettanomyces Golden Ale,5.0,72.0,7.2
-858.0,"Jupiter - Belgian-style \Champagne\"" Trippel""",5.0,61.0,0.0
-658.0,Black Mountain Bitter,1.0,3.0,0.0
 62.0,Ale To The Chief,3.0,32.0,8.75
 1081.0,White Horse Hefeweizen,4.0,50.0,4.7
 1081.0,"Lovitz Lager \Watermelon Lager\""""",8.0,95.0,4.5

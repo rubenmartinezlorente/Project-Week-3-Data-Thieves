@@ -2,6 +2,7 @@
 Modifications
 
 .gitignore.txt
+.DS_Store~HEAD
 
 # Created by https://www.gitignore.io/api/macos,windows,jupyternotebooks,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=macos,windows,jupyternotebooks,visualstudiocode

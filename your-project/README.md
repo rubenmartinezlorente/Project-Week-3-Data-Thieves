@@ -25,11 +25,11 @@ We find in this projects concepts of Python, Pandas, Tableau, API's and SQL.
 The information we want to extract from the datasets and the API's related with beers and breweries are the followings:
 
 1. What kind of categories of beers exists?
-2. What are the main differences between these beers (hop, temperatures cooking, or bitterness)?
-3. What beer (and category) has the maximum ABV (alcohol graduation)? and the minimum?
-4. Is there any relationship between the ABV and the SEM (color of beer)?
-5. Is there any relationship between the ABV and the fermentation temperature?
-6. Which is the beer (and category) with more breweries?
+2. Which is the beer (and category) with more breweries?
+3. What are the main differences between these beers (hop, temperatures cooking, or bitterness)?
+4. What beer (and category) has the maximum ABV (alcohol graduation)? and the minimum?
+5. Is there any relationship between the ABV and the SEM (color of beer)?
+6. Is there any relationship between the ABV and the fermentation temperature?
 
 ## Datasets
 There are three different resources (APIs and websites):
@@ -59,12 +59,23 @@ The API from PUNKAPI, is mainly composed by different types of beer with additio
 On the other side, the other datasets are formed by beer, beer's categories, breweries, style of beer, and other additional data like alcohol percentage.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+On the first place we searched for a usable API whose information would interest us. When found, we posed the questions that interested us the most.
+
+With those questions in mind, we explored the API in order to find the answers and tried to add complementary information that in this case we found in csv files. The csv files had to be cleaned thoroughly due to their inconsistencies. A SQL database was created in order to allow direct calling of the files from the cloud in the future.
+
+For the sake of clarity, every question had its own Jupyter document, but a common initial code was created in order to get the data from the API or the csv files. We worked with pandas to try to obtain answers to the questions. 
+
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+We used a Trello board with the tasks to do, the ones on the process and the pieces of work already done.
 
-What does your repository look like? Explain your folder and file structure.
+Our repository contains what follows:
+
+QUESTIONS - With question files.
+NEW DATA - Clean datasets and the Tableau data.
+RAW DATA - Old data as we found it.
+DATA CLEANING: A cleaning file for the csv files and the API.
+
 
 ## Links
 

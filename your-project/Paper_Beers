@@ -41,7 +41,7 @@ For answering the first question, we start by finding the clusters of beers and 
 
 #picture of group by brewereries and beers, both of them.
 
-As we observe, the 
+As we observe, the  
 
 
 
@@ -52,7 +52,7 @@ For looking inside the different features of the beers, we observe the next info
 #picture table Q2
 
 
-As we observe, the different beers been group by the SRM (the colour of the beer), their main features have aproximately the same values for all the three categories of it. We can conclude that, between the craft and larger beers, there is not any difference we can really see. 
+As we observe, the different beers been group by the SRM (the colour of the beer), their main features have **aproximately the same values for all the three categories** of it. We can conclude that, between the craft and larger beers, there is not any difference we can really see. 
 
 
 ##### Third Question:
@@ -63,7 +63,21 @@ He start looking the main ABV of the beers categories to see the highest and the
 
 #max and min graph
 
-The 
+The category with the highest ABV is the **Belgian and French Ale**, follow by the Northe American Ale.
+
+And the highest ABV beer is the **Tactical Nuclear Penguin** with 32 ABV , and the lowest are the **Petite Orval, Huckleberry Ale, Sea Dog Apricot Wheat and Sea Dog Blue Paw Wheat** with 3.5 ABV.
+
+
+##### Fourth and Fifth Questions:
+
+The main points for both question were if there is any correlation between the ABV and the SRM (colour of beer), because we though there could be some relation for the strongers beer been darker or the otherside. And the second correlation is between the ABV and the temperature of cooking.
+
+#picture of the correlation jupyter.
+
+
+From this table, we can see that there is not a correlation for both question because the first one has a correlation of 0.003290 and the other has a correlation of -0.051953. For been consider a good correlation, the result has to be between 0.6 and 0.8, and in this case, they do not overpass the 0.1.
+
+
 
 
 

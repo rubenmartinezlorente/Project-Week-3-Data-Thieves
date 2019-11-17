@@ -64,12 +64,26 @@ For the sake of clarity, every question had its own Jupyter document, but a comm
 ## Organization
 We used a Trello board with the tasks to do, the ones on the process and the pieces of work already done.
 
-Our repository contains what follows:
+Our repository contains the folling folder and files:
 
-QUESTIONS - With question files.
-NEW DATA - Clean datasets and the Tableau data.
-RAW DATA - Old data as we found it.
-DATA CLEANING: A cleaning file for the csv files and the API.
+**FOLDERS**
+
+QUESTIONS - 6 files where each  question is answered.
+
+NEW DATA - Clean datasets with files from Tableau to make visualization plots.
+
+RAW DATA - Datasets from the web and the API we used to make the data cleaning and exploring.
+
+**FILES**
+
+README.md - This file that explains a summary of the project.
+
+API_connection.py - Python code that launch the request and save the dataset file in the repository. We make a pre-datacleaning to split up data we just can do                         from the web.
+
+DataCleaning.ipnyb - Jupyter notebook file where we make all data cleaning and exploring to answer the questions proposed.
+
+Paper_Beers.md - Document where we present formally the project.
+
 
 
 ## Links

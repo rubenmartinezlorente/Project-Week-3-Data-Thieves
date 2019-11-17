@@ -20,7 +20,7 @@ By having this important question, we decided to see how they are compose and wh
 In the main data, we observe many tables which we are going to use the beer table with many different types of beers with their brewery and their category and their ABV (alcohol by volume), which we are going to be mainly using. We have also, a table with the categories which will help to group the beers. Moreover, we have the breweries table which let us see the main breweries in the market. 
 
 
-![Table Beers Dataset](/NEW_DATA/images_jupyter/beers_dataset.png)
+![Table Beers Dataset](https://github.com/rubenmartinezlorente/Project-Week-3-Data-Thieves/blob/master/your-project/NEW_DATA/images_jupyter/beers_dataset.png)
 
 
 
@@ -30,7 +30,7 @@ And, as a second dataset, we have an API about some craft beers and regular beer
 
 
 
-![Table Beers Dataset](/NEW_DATA/images_jupyter/API_Structure.png)
+![Table Beers Dataset](https://github.com/rubenmartinezlorente/Project-Week-3-Data-Thieves/blob/master/your-project/NEW_DATA/images_jupyter/API_Structure.png)
 
 
 ### Main Points Observed
@@ -39,11 +39,11 @@ And, as a second dataset, we have an API about some craft beers and regular beer
 
 For answering the first question, we start by finding the clusters of beers and breweries by categories to observe the highest one:
 
-![Table Beers](/NEW_DATA/images_jupyter/Num_beers.png)
+![Table Beers](https://github.com/rubenmartinezlorente/Project-Week-3-Data-Thieves/blob/master/your-project/NEW_DATA/images_jupyter/Num_beers.png)
 
 
 
-![Table breweries](/NEW_DATA/images_jupyter/Num_breweries.png)
+![Table breweries](https://github.com/rubenmartinezlorente/Project-Week-3-Data-Thieves/blob/master/your-project/NEW_DATA/images_jupyter/Num_breweries.png)
 
 
 
@@ -57,7 +57,7 @@ The category with more breweries is the **North American Ale** with 277 brewerie
 
 For looking inside the different features of the beers, we observe the next information: 
 
-![table beers_features](/NEW_DATA/Tableau/images/categories_beers.png)
+![table beers_features](https://github.com/rubenmartinezlorente/Project-Week-3-Data-Thieves/blob/master/your-project/NEW_DATA/Tableau/images/categories_beers.png)
 
 
 As we observe, the different beers been group by the SRM (the colour of the beer), their main features have **aproximately the same values for all the three categories** of it. We can conclude that, between the craft and larger beers, there is not any difference we can really see. 
@@ -67,12 +67,12 @@ As we observe, the different beers been group by the SRM (the colour of the beer
 
 He start looking the main ABV of the beers categories to see the highest and the lowest, and we look the beers maximum and minimum ABV (The first grafic is from the Dataset Beers and the other two are from the API, which contains the mix beers (craft and larger).
 
-![table categories](/NEW_DATA/Tableau/images/categories_beers.png)
+![table categories](https://github.com/rubenmartinezlorente/Project-Week-3-Data-Thieves/blob/master/your-project/NEW_DATA/Tableau/images/categories_beers.png)
 
-![Max_ABV](/NEW_DATA/Tableau/images/abv_max_beers.png)
+![Max_ABV](https://github.com/rubenmartinezlorente/Project-Week-3-Data-Thieves/blob/master/your-project/NEW_DATA/Tableau/images/abv_max_beers.png)
 
 
-![Min_ABV](/NEW_DATA/Tableau/images/abv_min_beers.png)
+![Min_ABV](https://github.com/rubenmartinezlorente/Project-Week-3-Data-Thieves/blob/master/your-project/NEW_DATA/Tableau/images/abv_min_beers.png)
 
 The category with the highest ABV is the **Belgian and French Ale**, follow by the Northe American Ale.
 
@@ -83,7 +83,7 @@ And the highest ABV beer is the **Tactical Nuclear Penguin** with 32 ABV , and t
 
 The main points for both question were if there is any correlation between the ABV and the SRM (colour of beer), because we though there could be some relation for the strongers beer been darker or the otherside. And the second correlation is between the ABV and the temperature of cooking.
 
-![](/NEW_DATA/images_jupyter/correlation.png)
+![Correlation](https://github.com/rubenmartinezlorente/Project-Week-3-Data-Thieves/blob/master/your-project/NEW_DATA/images_jupyter/correlation.png)
 
 
 From this table, we can see that there is not a correlation for both question because the first one has a correlation of 0.003290 and the other has a correlation of -0.051953. For been consider a good correlation, the result has to be between 0.6 and 0.8, and in this case, they do not overpass the 0.1.

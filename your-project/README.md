@@ -40,12 +40,7 @@ There are three different resources (APIs and websites):
 
 - APIs:
 
-    Open Brewery: API with a directory of breweries in US, with their addresses. 
-    
-    https://www.openbrewerydb.org/#projects
-
-
-    Punk Ipa: API with different information of beers providing: brands, description beers, food combination.
+    Punk Api: API with different information of beers providing: brands, description beers, food combination.
     
     https://punkapi.com/documentation/v2
 
@@ -59,9 +54,9 @@ The API from PUNKAPI, is mainly composed by different types of beer with additio
 On the other side, the other datasets are formed by beer, beer's categories, breweries, style of beer, and other additional data like alcohol percentage.
 
 ## Workflow
-On the first place we searched for a usable API whose information would interest us. When found, we posed the questions that interested us the most.
+On the first place we searched for a useful API whose information be enough to answer at least, some of the interested questions. Once we found some APIs, we propose the questions more interesting.
 
-With those questions in mind, we explored the API in order to find the answers and tried to add complementary information that in this case we found in csv files. The csv files had to be cleaned thoroughly due to their inconsistencies. A SQL database was created in order to allow direct calling of the files from the cloud in the future.
+A process of data cleaning and exploring is initiated. We need to clean the different data-set (from API and web), in order to explore and structure all legible data and answer the questions.
 
 For the sake of clarity, every question had its own Jupyter document, but a common initial code was created in order to get the data from the API or the csv files. We worked with pandas to try to obtain answers to the questions. 
 
